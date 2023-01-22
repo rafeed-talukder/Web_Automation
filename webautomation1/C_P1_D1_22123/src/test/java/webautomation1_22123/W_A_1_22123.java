@@ -1,0 +1,30 @@
+package webautomation1_22123;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.Test;
+
+import io.github.bonigarcia.wdm.WebDriverManager;
+
+public class W_A_1_22123 {
+	
+	@Test
+	
+	public void Loadgoogle () throws InterruptedException {
+		
+		WebDriverManager.chromedriver().setup();   // webdriver create
+		
+		WebDriver driver = new ChromeDriver();	   // object create of webdriver.
+		
+		driver.get(" https://www.youtube.com/");   // get the url 
+		
+		driver.manage().window().maximize();		// maximize the window
+		
+		Thread.sleep(4000);							// how many times it will stay 
+		
+		driver.close();								// close only this specific window not full window.
+		
+		// driver.quit();							// close full tab .
+		
+	}
+}

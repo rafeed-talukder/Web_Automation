@@ -1,0 +1,160 @@
+2023-01-22 13:28:59,774 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-22 13:32:05,786 [Worker-19: Launching mavenrun-3ef357ff-6e55-4425-b21a-098b931c82a5] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\5.SQA_Automation\Practice\webautomation1
+2023-01-22 13:32:05,789 [Worker-19: Launching mavenrun-3ef357ff-6e55-4425-b21a-098b931c82a5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -DarchetypeVersion=1.1 -Dpackage=sqa.com.C_P1_D1_22123 -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DgroupId=sqa.com -DartifactId=C_P1_D1_22123 -DoutputDirectory=F:\5.SQA_Automation\Practice\webautomation1 -Dversion=0.0.1-SNAPSHOT -Dstyle.color=always -U archetype:generate
+2023-01-22 13:52:31,893 [Worker-8: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\pom.xml
+2023-01-22 13:52:34,989 [Worker-8: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sqa.com:C_P1_D1_22123:0.0.1-SNAPSHOT @ F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\pom.xml.
+2023-01-22 13:52:36,032 [Worker-8: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /C_P1_D1_22123/src/main/java
+2023-01-22 13:52:36,042 [Worker-8: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /C_P1_D1_22123/src/test/java
+2023-01-22 13:52:36,210 [Worker-8: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2023-01-22 13:52:37,267 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 13:52:37,268 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 13:52:37,272 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 13:52:37,272 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 14:02:25,220 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 14:02:25,220 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 14:02:25,222 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 14:02:25,222 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 14:02:31,030 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 14:02:31,030 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 14:02:31,035 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 14:02:31,036 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 14:06:44,618 [Worker-32: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sqa.com:C_P1_D1_22123:0.0.1-SNAPSHOT @ F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\pom.xml.
+2023-01-22 14:06:44,759 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 14:06:44,759 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 14:06:44,763 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 14:06:44,764 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 14:06:45,972 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 14:06:45,973 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 14:06:45,974 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 14:06:45,975 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 14:10:30,356 [Worker-37: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sqa.com:C_P1_D1_22123:0.0.1-SNAPSHOT @ F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\pom.xml.
+2023-01-22 14:10:30,851 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 14:10:30,852 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 14:10:30,856 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 14:10:30,856 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 14:10:32,227 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 14:10:32,227 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 14:10:32,230 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 14:10:32,230 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 14:12:56,460 [Worker-39: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sqa.com:C_P1_D1_22123:0.0.1-SNAPSHOT @ F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\pom.xml.
+2023-01-22 14:12:59,709 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 14:12:59,709 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 14:12:59,713 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 14:12:59,713 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 14:13:01,135 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 14:13:01,135 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 14:13:01,137 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 14:13:01,137 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 14:15:37,057 [Worker-41: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sqa.com:C_P1_D1_22123:0.0.1-SNAPSHOT @ F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\pom.xml.
+2023-01-22 14:15:38,227 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 14:15:38,228 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 14:15:38,233 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 14:15:38,233 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 14:15:39,650 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 14:15:39,650 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 14:15:39,652 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 14:15:39,652 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 14:18:29,124 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 14:18:29,125 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 14:18:29,126 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 14:18:29,126 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 14:20:31,254 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 14:20:31,254 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 14:20:31,255 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 14:20:31,255 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 14:20:38,337 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 14:20:38,338 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 14:20:38,339 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 14:20:38,339 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 14:21:09,813 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 14:21:09,814 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 14:21:09,817 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 14:21:09,817 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 14:21:10,897 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 14:21:10,897 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 14:21:10,899 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 14:21:10,899 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 14:23:07,639 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 14:23:07,639 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 14:23:07,640 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 14:23:07,640 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 14:35:38,977 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 14:35:38,978 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 14:35:38,982 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 14:35:38,983 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 15:11:12,632 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:11:12,633 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 15:11:12,634 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:11:12,634 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 15:11:26,816 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:11:26,816 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 15:11:26,818 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:11:26,818 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 15:11:45,078 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:11:45,078 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 15:11:45,080 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:11:45,080 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 15:11:55,961 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:11:55,961 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 15:11:55,963 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:11:55,963 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 15:12:11,518 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:12:11,518 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 15:12:11,520 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:12:11,520 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 15:12:37,208 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:12:37,209 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 15:12:37,210 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:12:37,210 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 15:12:50,002 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:12:50,003 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 15:12:50,004 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:12:50,004 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 15:13:16,930 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:13:16,930 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 15:13:16,931 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:13:16,931 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 15:13:36,095 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:13:36,095 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 15:13:36,097 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:13:36,097 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 15:13:58,136 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:13:58,136 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 15:13:58,139 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:13:58,142 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 15:22:50,894 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:22:50,895 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 15:22:50,896 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:22:50,896 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 15:23:21,092 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:23:21,093 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 15:23:21,094 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:23:21,094 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 15:23:29,472 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:23:29,472 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 15:23:29,475 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:23:29,475 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 15:24:33,730 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:24:33,730 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 15:24:33,732 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:24:33,732 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 15:24:39,578 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:24:39,578 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 15:24:39,579 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:24:39,580 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 15:24:53,027 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:24:53,027 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 15:24:53,028 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:24:53,029 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 15:25:47,120 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:25:47,120 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 15:25:47,122 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:25:47,122 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 15:26:22,369 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:26:22,370 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 15:26:22,371 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:26:22,372 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources
+2023-01-22 15:27:39,752 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:27:39,752 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\main\resources
+2023-01-22 15:27:39,753 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-22 15:27:39,754 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\5.SQA_Automation\Practice\webautomation1\C_P1_D1_22123\src\test\resources

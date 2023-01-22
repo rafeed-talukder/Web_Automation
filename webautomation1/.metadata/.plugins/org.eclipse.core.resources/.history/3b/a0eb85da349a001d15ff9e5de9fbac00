@@ -1,0 +1,17 @@
+package webautomation1_22123;
+
+import org.openqa.selenium.chrome.ChromeDriver;
+
+import io.github.bonigarcia.wdm.WebDriverManager;
+
+public class W_A_1_22123 {
+	
+	public void Loadgoogle () {
+		
+		WebDriverManager.chromedriver().setup();
+		
+		WebDriver driver = new ChromeDriver();
+		
+		
+	}
+}

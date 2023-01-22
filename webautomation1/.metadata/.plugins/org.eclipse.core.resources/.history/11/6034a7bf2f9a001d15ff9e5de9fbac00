@@ -1,0 +1,8 @@
+package webautomation1_22123;
+
+public class W_A_1_22123 {
+	
+	public void Loadgoogle () {
+		
+	}
+}
